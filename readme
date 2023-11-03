@@ -1,0 +1,4 @@
+•	Our objective is to select the best 11 players from around the world based on specific
+key performance parameters.
+•	 To achieve this goal, we will follow a multi-step process. First, we will convert the data
+from the 2022 T20 World Cup, which is currently in a JSON file, into a CSV file using Python. Next, we will clean and prepare the data in Excel. Once the data is ready, we will import it into Power BI for in-depth analysis. In Power BI, we will create charts and visualizations to gain valuable insights from the data. 
